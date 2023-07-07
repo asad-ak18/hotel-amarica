@@ -1,0 +1,562 @@
+
+
+
+@media (min-width: 1200px) {}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .navbar-nav .nav-item .nav-link {
+            text-align: center;
+        }
+    
+        .navbar-nav .nav-item .nav-link:hover {
+            background: #3f06c4;
+            color: #fff;
+        }
+    
+        .bg1 {
+            width: 590px;
+        }
+    
+        .bg2 {
+            width: 178px;
+        }
+    
+        .form-bg {
+            padding: 0;
+            margin: 0 auto;
+        }
+    
+        .awardres {
+            text-align: center;
+            margin: 50px;
+         
+        }
+
+        .awardw{
+        margin: 50px;
+        }
+       .bbb
+         
+        .b-asad {
+    
+            padding: 15px;
+            margin-left: 32px;
+            margin-bottom: 103px;
+        }
+    
+        .Winter2 .winter2_text {
+            color: #fff;
+        }
+    
+        .Winter3 .winter3_text {
+            color: #fff;
+        }
+    
+        .Winter4 .winter4_text {
+            color: #fff;
+        }
+    
+        .Winter5 .winter5_text {
+            color: #fff;
+        }
+    
+        .text-weather {
+            position: absolute;
+            left: 58px;
+            top: 245px;
+        }
+    
+        .roomfirst {
+            text-align: center;
+            
+           
+        }
+    
+        .roommiddle {
+            text-align: center;
+            padding: 40px;
+            width: 200px;
+
+        }
+    
+        .roomlast {
+            text-align: center;
+            margin-right: 40px;
+            
+        }
+     
+    
+        .news {
+            text-align: center;
+            
+        }
+
+                          .newss {
+                              margin-left: 84px;
+                          }
+    
+        .footer-bg {
+            display: block;
+            height: 900px;
+            text-align: center;
+            text-decoration: none;
+        }
+    
+        .footer-bg img {
+            display: block;
+            text-align: center;
+            margin: 0 auto;
+        }
+    
+        .lastpart {
+            padding: 0;
+        }
+    
+        .home-about-rooms {
+            margin-left: 0;
+            text-decoration: none;
+
+           padding-left: 76px;
+        }
+    
+        .portfolio {
+            margin-left: 0;
+            text-decoration: none;
+        }
+    
+        .contact {
+            margin-left: 0;
+            text-decoration: none;
+        }
+    
+        .footer_social {
+            padding-right: 295px;
+        }
+    
+        .footer_social li a i {
+            color: #fff;
+        }
+    
+        .footer_social li a i:hover {
+            color: #24078f;
+        }
+    
+        .home-about-rooms li a {
+            text-decoration: none;
+    
+        }
+    
+        .home-about-rooms li a:hover {
+            color: #24078f;
+    
+        }
+    
+        .portfolio li a {
+            text-decoration: none;
+        }
+    
+        .portfolio li a:hover {
+            color: #24078f;
+        }
+    
+        .contact {
+            text-decoration: none;
+        }
+    
+        .contact li a:hover {
+            color: #24078f;
+        }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .navbar-nav .nav-item .nav-link {
+            text-align: center;
+        }
+    
+        .navbar-nav .nav-item .nav-link:hover {
+            background: #3f06c4;
+            color: #fff;
+        }
+    
+        .bg1 {
+            width: 590px;
+        }
+    
+        .bg2 {
+            width: 178px;
+        }
+    
+        .form-bg {
+            padding-left: 0;
+        }
+    
+        .awardres {
+            text-align: center;
+        }
+    
+        .b-asad {
+    
+            margin-left: 32px;
+            margin-bottom: 103px;
+        }
+    
+        .Winter2 .winter2_text {
+            color: #fff;
+        }
+    
+        .Winter3 .winter3_text {
+            color: #fff;
+        }
+    
+        .Winter4 .winter4_text {
+            color: #fff;
+        }
+    
+        .Winter5 .winter5_text {
+            color: #fff;
+        }
+       
+.text-weather {
+    position: absolute;
+    left: 58px;
+    top: 245px;
+}
+
+        .roomfirst {
+            text-align: center;
+        }
+    
+        .roommiddle {
+            text-align: center;
+        }
+    
+        .roomlast {
+            text-align: center;
+        }
+    
+        .news {
+            text-align: center;
+        }
+    
+        .footer-bg {
+            display: block;
+            height: 900px;
+            text-align: center;
+            text-decoration: none;
+        }
+    
+        .footer-bg img {
+            display: block;
+            text-align: center;
+            margin: 0 auto;
+        }
+    
+        .lastpart {
+            padding: 0;
+        }
+    
+        .home-about-rooms {
+            margin-left: 0;
+            text-decoration: none;
+        }
+    
+        .portfolio {
+            margin-left: 0;
+            text-decoration: none;
+        }
+    
+        .contact {
+            margin-left: 0;
+            text-decoration: none;
+        }
+    
+        .footer_social {
+            padding-right: 295px;
+        }
+    
+        .footer_social li a i {
+            color: #fff;
+        }
+    
+        .footer_social li a i:hover {
+            color: #24078f;
+        }
+    
+        .home-about-rooms li a {
+            text-decoration: none;
+    
+        }
+    
+        .home-about-rooms li a:hover {
+            color: #24078f;
+    
+        }
+    
+        .portfolio li a {
+            text-decoration: none;
+        }
+    
+        .portfolio li a:hover {
+            color: #24078f;
+        }
+    
+        .contact {
+            text-decoration: none;
+        }
+    
+        .contact li a:hover {
+            color: #24078f;
+        }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+        .navbar-nav .nav-item .nav-link {
+                text-align: center;
+            }
+        
+            .navbar-nav .nav-item .nav-link:hover {
+                background: #0099ff;
+                color: #fff;
+            }
+        
+            .bg1 {
+                width: 410px;
+            }
+        
+            .bg2 {
+                width: 166px;
+            }
+        
+            .form-bg {
+                padding-left: 0;
+            }
+        
+            .awardres {
+                text-align: center;
+            }
+        
+            .b-asad {
+        
+                margin-left: 32px;
+                margin-bottom: 103px;
+            }
+        
+            .Winter2 .winter2_text {
+                color: #fff;
+            }
+        
+            .Winter3 .winter3_text {
+                color: #fff;
+            }
+        
+            .Winter4 .winter4_text {
+                color: #fff;
+            }
+        
+            .Winter5 .winter5_text {
+                color: #fff;
+            }
+        
+            .roomfirst {
+                text-align: center;
+            }
+        
+            .roommiddle {
+                text-align: center;
+            }
+        
+            .roomlast {
+                text-align: center;
+            }
+        
+            .news {
+                text-align: center;
+            }
+        
+            .footer-bg {
+                display: block;
+                height: 900px;
+                text-align: center;
+                text-decoration: none;
+            }
+        
+            .footer-bg img {
+                display: block;
+                text-align: center;
+                margin: 0 auto;
+            }
+        
+            .lastpart {
+                padding: 0;
+            }
+        
+            .home-about-rooms {
+                margin-left: 0;
+                text-decoration: none;
+            }
+        
+            .portfolio {
+                margin-left: 0;
+                text-decoration: none;
+            }
+        
+            .contact {
+                margin-left: 0;
+                text-decoration: none;
+            }
+        
+            .footer_social {
+                padding-right: 212px;
+            }
+        
+            .footer_social li a i {
+                color: #fff;
+            }
+        
+            .footer_social li a i:hover {
+                color: #24078f;
+            }
+        
+            .home-about-rooms li a {
+                text-decoration: none;
+        
+            }
+        
+            .home-about-rooms li a:hover {
+                color: #24078f;
+        
+            }
+        
+            .portfolio li a {
+                text-decoration: none;
+            }
+        
+            .portfolio li a:hover {
+                color: #24078f;
+            }
+        
+            .contact {
+                text-decoration: none;
+            }
+        
+            .contact li a:hover {
+                color: #24078f;
+            }
+       
+    /*  Class part end  */
+}
+
+@media (max-width: 575px) {
+  .navbar-nav .nav-item  .nav-link{
+      text-align: center;
+  }
+   .navbar-nav .nav-item .nav-link:hover{
+    background: #24078f;
+    color:#fff;
+   }
+   .bg1{
+    width: 400px;
+   }
+   .bg2{
+      width:175px;
+   }
+   .form-bg{
+    padding-left: 0;
+   }
+   .awardres{
+    text-align: center;
+   }
+   .b-asad {
+ 
+    margin-left: 32px;
+    margin-bottom: 103px;
+}
+.Winter2 .winter2_text{
+    color:#fff;
+}
+.Winter3 .winter3_text{
+    color:#fff;
+}
+.Winter4 .winter4_text{
+    color:#fff;
+}
+.Winter5 .winter5_text{
+    color:#fff;
+}
+
+.roomfirst {
+    text-align: center;
+}
+.roommiddle{
+    text-align: center;
+}
+
+.roomlast{
+    text-align: center;
+}
+
+.news{
+    text-align: center;
+}
+.footer-bg{
+    display: block;
+    height:900px;
+    text-align: center;
+    text-decoration: none;
+}
+.footer-bg img{
+   display: block;
+   text-align: center;
+   margin: 0 auto;
+}
+.lastpart{
+    padding: 0;
+}
+
+.home-about-rooms{
+  margin-left: 0;
+  text-decoration: none;
+}
+.portfolio{
+    margin-left: 0;
+    text-decoration: none;
+}
+.contact{
+    margin-left: 0;
+    text-decoration: none;
+}
+.footer_social{
+    padding-right: 222px;
+}
+
+.footer_social li a i{
+    color:#fff;
+}
+.footer_social li a i:hover {
+    color:#24078f;
+}
+
+.home-about-rooms li a {
+   text-decoration: none;
+
+}
+.home-about-rooms li a:hover {
+     color:#24078f;
+
+}
+
+.portfolio li a {
+    text-decoration: none;
+}
+.portfolio li a:hover {
+color: #24078f;
+}
+.contact {
+    text-decoration: none;
+}
+.contact li a:hover{
+color: #24078f;
+}
+
+}

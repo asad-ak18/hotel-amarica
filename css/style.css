@@ -1,0 +1,271 @@
+*{
+    border: 0;
+    padding: 0;
+    outline: 0;
+}
+
+
+ul,ol{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    display:  inline-block;
+}
+img{
+    vertical-align: middle;
+}
+
+.container{
+   margin: 0 auto;
+}
+
+/* common css part end */
+
+
+/* banner part start */
+.bg1{
+    background:url('../image/bannerpic-01.jpg');
+    height:600px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+   
+}
+.text_bg1{
+    position: absolute;
+    top:560px;
+    left:182px;
+    text-transform: uppercase;
+    color: aliceblue;
+    
+}
+.text_bg1 span{
+    display: block;
+    color:#646262;
+}
+
+
+.bg2{
+    background: url('../image/b2.jpg');
+    height:700px;
+        background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+    
+}
+
+
+
+.bg2 img{
+  width:100%;
+
+}
+
+
+/* banner part end */
+.form-bg{
+    background-color: black;
+    margin-top: 50px;
+    padding-left: 200px;
+}
+
+.text-awaed h2{
+    font-size: 16px;
+}
+.text-awaed p{
+ font-weight: 300;
+ color:#a5a4a4;
+}
+
+
+ .b-asad{
+     padding: 8px  20px;
+     border: 2px solid #4e26fd;
+     
+}
+ .b-asad:hover {
+    background: #4e26fd;
+    
+}
+ .b-asad {
+left:50px;
+margin-left: 500px;
+margin-bottom: 103px;
+}
+
+
+.Winter1{
+    background: url('../image/winter.jpg');
+    height:598px ;
+    margin: 0;
+    background-size: cover;
+    position: relative;
+    margin-top: 40px;
+   
+  
+}
+
+.winter1_text{
+    position: absolute;
+    top:430px;
+  color:#fff;
+    text-align: center;
+}
+
+.Winter2 {
+    background: url('../image/winter2.jpg');
+    height: 598px;
+    margin: 0;
+    background-size: cover;
+    position: relative;
+    margin-top: 40px;
+}
+.winter2_text {
+    position: absolute;
+    top: 430px;
+    color:#969595;
+    text-align: center;
+}
+.Winter3 {
+    background: url('../image/winter3.jpg');
+    height: 598px;
+    margin: 0;
+    background-size: cover;
+    position: relative;
+    margin-top: 40px;
+ 
+}
+.winter3_text {
+    position: absolute;
+    top: 430px;
+    color:#969595;
+    text-align: center;
+}
+.Winter4 {
+    background: url('../image/winter4.jpg');
+    height: 598px;
+    margin: 0;
+    background-size: cover;
+    position: relative;
+    margin-top: 40px;
+ 
+}
+.winter4_text {
+    position: absolute;
+    top: 430px;
+    color:#969595;
+    text-align: center;
+}
+.Winter5 {
+    background: url('../image/winter5.jpg');
+    height: 598px;
+    margin: 0;
+    background-size: cover;
+    position: relative;
+    margin-top: 40px;
+  
+}
+.winter5_text {
+    position: absolute;
+    top: 430px;
+    color:#969595;
+    text-align: center;
+}
+
+.room{
+    margin-top: 106px;
+        margin-bottom: 82px;
+}
+
+.room span{
+    display: block;
+
+}
+
+.roomlast{
+    padding-left: 43px;
+}
+
+.roommiddle{
+    padding:0 ;
+}
+
+
+
+
+
+
+.winter_weather{
+background: url('../image/fdjdtdy.jpg');
+height: 556px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    color:#fff;
+} 
+.text-weather{
+    position: absolute;
+    left:670px;
+    top:300px;
+}
+.text-weather span{
+    display: block;
+}
+
+
+.footer-bg{
+    background-color: #111111;
+    height:300px;
+
+}
+.footer-bg i{
+    color:#fff;
+}
+
+.home-about-rooms {
+    margin-top: 110px;
+    margin-left: 100px;
+   
+}
+
+.home-about-rooms  li a{
+    color: #fff;
+}
+.portfolio {
+    margin-top: 110px;
+        margin-left: 100px;
+}
+.portfolio li a {
+    color: #fff;
+}
+.contact{
+        margin-top: 110px;
+            margin-left: 100px;
+}
+
+.contact li a{
+    color:#fff;
+}
+
+.footer_social{
+
+        
+}
+
+.footer_social li{
+float:right;
+}
+.footer_social li a {
+    padding-left: 24px;
+}
+.footer_social li a:hover {
+    color: #3d0cee;
+}
+.lastpart{
+    padding-left: 22px;
+}
+
